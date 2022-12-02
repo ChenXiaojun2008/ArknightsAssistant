@@ -58,6 +58,9 @@ ArknightsAssistant 是一款基于图像识别技术的游戏助手
 - 压缩文件库: [SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
 - JSON库: [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 
+### 关联项目
+- 新版UI: [ArknightsAssistant-BetaGUI](https://github.com/ChenXiaojun2008/ArnightsAssistant-BetaGUI)
+
 ### 贡献/参与者
 
 在此感谢所有参加到**ArknightsAssistant**的开发者们！
