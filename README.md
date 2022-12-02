@@ -59,7 +59,7 @@ ArknightsAssistant 是一款基于图像识别技术的游戏助手
 - JSON库: [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 
 ### 关联项目
-- 新版UI: [ArknightsAssistant-BetaGUI](https://github.com/ChenXiaojun2008/ArnightsAssistant-BetaGUI)
+- 新版UI: [ArknightsAssistant-BetaGUI](https://github.com/ChenXiaojun2008/ArknightsAssistant-BetaGUI)
 
 ### 贡献/参与者
 
